@@ -7,6 +7,7 @@ I enjoy crafting seamless user experiences, optimizing performance, and constant
 ---
 
 ## 🌐 My Portfolio
+Check out my portfolio to see my projects and skills in action:
 [![Portfolio](https://img.shields.io/badge/🔗-Portfolio-FAB005?style=for-the-badge&logo=google-chrome&logoColor=black)](https://savitaar0912.github.io/portfolio/)
 
 ---
