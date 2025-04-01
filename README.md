@@ -6,7 +6,7 @@ I enjoy crafting seamless user experiences, optimizing performance, and constant
 
 ## 🌐 My Portfolio
 Check out my portfolio to see my projects and skills in action:
-[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Here-blue?style=for-the-badge)](https://savitaar0912.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20Here-ffcc00?style=for-the-badge&logo=google-chrome&logoColor=white)](https://savitaar0912.github.io/portfolio/)
 
 ## 🛠️ Tech Stack
 ### 🚀 Frontend
@@ -26,25 +26,25 @@ Check out my portfolio to see my projects and skills in action:
 ### 🛠️ Tools & Platforms
 - **Version Control:** Git, GitHub
 - **IDE & Code Editors:** VS Code
-- **Deployment & Hosting:** Github, Firebase Hosting
-- **Video Editing:** Final Cut Pro, DaVinci Resolve 
+- **Deployment & Hosting:** GitHub, Firebase Hosting
+- **Video Editing:** Final Cut Pro, DaVinci Resolve
 
 ## 📈 GitHub Stats
 ![Shashank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=savitaar0912&show_icons=true&theme=radical)
 
 ## 📢 Latest YouTube Content
 🚀 I also create videos on web development, coding roadmaps, and tech insights on YouTube! Check out my latest content:
-[![YouTube](https://img.shields.io/badge/YouTube-Code%20with%20Savitaar-red?style=for-the-badge&logo=youtube)](https://www.youtube.com/@CodeWithSavitaar)
+[![YouTube](https://img.shields.io/badge/YouTube-Code%20with%20Savitaar-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CodeWithSavitaar)
 
 ## 📬 Connect with Me
 Let's network and collaborate!
-[![Instagram](https://img.shields.io/badge/Instagram-CodewithSavitaar-purple?style=for-the-badge&logo=instagram)](https://www.instagram.com/codewithsavitaar/)
+[![Instagram](https://img.shields.io/badge/Instagram-CodewithSavitaar-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codewithsavitaar/)
 
 ## 📬 Connect with Me
 Let's network and collaborate!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shashanksingh875/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-blue?style=for-the-badge&logo=twitter)](https://twitter.com/savitaar875)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github)](https://github.com/savitaar0912)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashanksingh875/)
+[![Twitter](https://img.shields.io/badge/Twitter-Follow%20Me-0077B5?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/savitaar875)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-0077B5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/savitaar0912)
 
 ## 🎯 Goals & Interests
 - 🔭 Currently working on **Full Stack MERN projects**
