@@ -44,6 +44,14 @@ Check out my portfolio to see my projects and skills in action:
 
 ---
 
+### 🏆 GitHub Trophies:
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=savitaar0912&theme=radical" alt="GitHub Trophies" />
+</p>
+
+---
+
 ## 📢 Latest YouTube Content
 🚀 I also create videos on web development, coding roadmaps, and tech insights on YouTube! Check out my latest content:
 [![YouTube](https://img.shields.io/badge/YouTube-Code%20with%20Savitaar-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CodeWithSavitaar)
