@@ -36,12 +36,10 @@ Check out my portfolio to see my projects and skills in action:
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Final Cut Pro](https://img.shields.io/badge/Final%20Cut%20Pro-000000?style=for-the-badge&logo=apple&logoColor=white)
 ![Carbon Design System](https://img.shields.io/badge/Carbon%20Design%20System-161616?style=for-the-badge&logo=ibm&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![SonarQube](https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
 
 ---
 
@@ -61,7 +59,7 @@ Check out my portfolio to see my projects and skills in action:
 
 ## 📢 Latest YouTube Content
 🚀 I also create videos on web development, coding roadmaps, and tech insights on YouTube! Check out my latest content:
-[![YouTube](https://img.shields.io/badge/YouTube-Code%20with%20Savitaar-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@CodeWithSavitaar)
+[![YouTube](https://img.shields.io/badge/YouTube-Savitaar-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCHaUjfcGqh95QFCMRBdsTHg)
 
 ---
 
@@ -71,13 +69,13 @@ Let's network and collaborate!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashanksingh875/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/savitaar875)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/savitaar0912)
-[![Instagram](https://img.shields.io/badge/Instagram-CodewithSavitaar-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/codewithsavitaar/)
+[![Instagram](https://img.shields.io/badge/Instagram-CodewithSavitaar-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_savitaar_/)
 
 ---
 
 ## 🎯 Goals & Interests
 - 🔭 Currently working on **Full Stack MERN projects**
-- 🌱 Learning **Next.js advanced features & performance optimizations**
+- 🌱 Learning **Next.js advanced features & performance optimizations and React Native**
 - 🎯 Exploring **AI-powered web applications**
 - 📝 Sharing my knowledge via **YouTube & GitHub**
 
