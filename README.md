@@ -66,10 +66,10 @@ Check out my portfolio to see my projects and skills in action:
 ## 📬 Connect with Me
 Let's network and collaborate!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shashanksingh875/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/singhshashank875/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/savitaar875)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/savitaar0912)
-[![Instagram](https://img.shields.io/badge/Instagram-CodewithSavitaar-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_savitaar_/)
+[![Instagram](https://img.shields.io/badge/Instagram-Savitaar-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_savitaar_/)
 
 ---
 
