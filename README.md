@@ -43,26 +43,6 @@ Check out my portfolio to see my projects and skills in action:
 
 ---
 
-## 📊 GitHub Stats
-![Shashank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=savitaar0912&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=savitaar0912&layout=compact&theme=radical)
-
----
-
-### 🏆 GitHub Trophies:
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=savitaar0912&theme=radical" alt="GitHub Trophies" />
-</p>
-
----
-
-## 📢 Latest YouTube Content
-🚀 I also create videos on web development, coding roadmaps, and tech insights on YouTube! Check out my latest content:
-[![YouTube](https://img.shields.io/badge/YouTube-Savitaar-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCHaUjfcGqh95QFCMRBdsTHg)
-
----
-
 ## 📬 Connect with Me
 Let's network and collaborate!
 
